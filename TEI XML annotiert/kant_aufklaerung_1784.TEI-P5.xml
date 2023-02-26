@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.deutschestextarchiv.de/basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Beantwortung der Frage: Was ist Aufklärung?</title>
+                <author>
+                    <persName ref="http://d-nb.info/gnd/118559796">
+                        <surname>Kant</surname>
+                        <forename>Immanuel</forename>
+                    </persName>
+                </author>
+                <editor corresp="#DTACorpusPublisher">
+                    <persName ref="http://d-nb.info/gnd/115266127">
+                        <surname>Geyken</surname>
+                        <forename>Alexander</forename>
+                    </persName>
+                </editor>
+                <editor corresp="#DTACorpusPublisher">
+                    <persName ref="http://d-nb.info/gnd/1222198746">
+                        <surname>Haaf</surname>
+                        <forename>Susanne</forename>
+                    </persName>
+                </editor>
+                <editor corresp="#DTACorpusPublisher">
+                    <persName ref="http://d-nb.info/gnd/1019062681">
+                        <surname>Jurish</surname>
+                        <forename>Bryan</forename>
+                    </persName>
+                </editor>
+                <editor corresp="#DTACorpusPublisher">
+                    <persName>
+                        <surname>Boenig</surname>
+                        <forename>Matthias</forename>
+                    </persName>
+                </editor>
+                <editor corresp="#DTACorpusPublisher">
+                    <persName>
+                        <surname>Thomas</surname>
+                        <forename>Christian</forename>
+                    </persName>
+                </editor>
+                <editor corresp="#DTACorpusPublisher">
+                    <persName>
+                        <surname>Wiegand</surname>
+                        <forename>Frank</forename>
+                    </persName>
+                </editor>
+                <respStmt>
+                    <orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der
+                        Wissenschaften (BBAW)</orgName>
+                    <resp>
+                        <note type="remarkResponsibility">Langfristige Bereitstellung der
+                            DTA-Ausgabe</note>
+                        <ref target="https://www.bbaw.de"/>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Vollständige digitalisierte Ausgabe.</edition>
+            </editionStmt>
+            <extent>
+                <measure type="images">33</measure>
+                <measure type="tokens">3375</measure>
+                <measure type="types">1342</measure>
+                <measure type="characters">24504</measure>
+            </extent>
+            <publicationStmt>
+                <publisher xml:id="DTACorpusPublisher">
+                    <email>dta@bbaw.de</email>
+                    <orgName role="project">Deutsches Textarchiv</orgName>
+                    <orgName role="hostingInstitution" xml:lang="eng">Berlin-Brandenburg Academy of
+                        Sciences and Humanities (BBAW)</orgName>
+                    <orgName role="hostingInstitution" xml:lang="deu">Berlin-Brandenburgische
+                        Akademie der Wissenschaften (BBAW)</orgName>
+                    <address>
+                        <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                        <country>Germany</country>
+                    </address>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date type="publication">2021-02-18T14:29:31Z</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/deed.de">
+                        <p>Distributed under the Creative Commons Attribution-ShareAlike 4.0
+                            License.</p>
+                    </licence>
+                </availability>
+                <idno>
+                    <idno type="URLWeb"
+                        >https://www.deutschestextarchiv.de/kant_aufklaerung_1784</idno>
+                    <idno type="URLXML"
+                        >https://www.deutschestextarchiv.de/book/download_xml/kant_aufklaerung_1784</idno>
+                    <idno type="URLHTML"
+                        >https://www.deutschestextarchiv.de/book/download_html/kant_aufklaerung_1784</idno>
+                    <idno type="URLText"
+                        >https://www.deutschestextarchiv.de/book/download_text/kant_aufklaerung_1784</idno>
+                    <idno type="DTADirName">kant_aufklaerung_1784</idno>
+                    <idno type="DTAID">16167</idno>
+                    <idno type="URN">urn:nbn:de:kobv:b4-200905192971</idno>
+                </idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="JA">Kant, Immanuel: Beantwortung der Frage: Was ist Aufklärung? In:
+                    Berlinische Monatsschrift, 1784, H. 12, S. 481-494.</bibl>
+                <biblFull>
+                    <titleStmt>
+                        <title level="a" type="main">Beantwortung der Frage: Was ist
+                            Aufklärung?</title>
+                        <author>
+                            <persName ref="http://d-nb.info/gnd/118559796">
+                                <surname>Kant</surname>
+                                <forename>Immanuel</forename>
+                            </persName>
+                        </author>
+                    </titleStmt>
+                    <editionStmt>
+                        <edition n="1"/>
+                    </editionStmt>
+                    <extent>
+                        <measure type="pages">14 S.</measure>
+                    </extent>
+                    <publicationStmt>
+                        <publisher><name>Haude und Spener</name></publisher>
+                        <pubPlace>Berlin</pubPlace>
+                        <date type="publication">1784</date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <title level="j" type="main">Berlinische Monatsschrift</title>
+                        <biblScope unit="issue">12</biblScope>
+                        <biblScope unit="pages">481-494</biblScope>
+                    </seriesStmt>
+                </biblFull>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Zentral- und Landesbibliothek Berlin</repository>
+                        <idno>
+                            <idno type="shelfmark">Berlin ZLB, B 1/96:1784,2</idno>
+                        </idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <typeDesc>
+                            <p>Fraktur</p>
+                        </typeDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>Dieses Werk wurde von OCR-Software automatisch erfasst und anschließend gemäß den
+                    <ref target="https://www.deutschestextarchiv.de/doku/richtlinien"
+                        >DTA-Transkriptionsrichtlinien</ref> von Muttersprachlern nachkontrolliert.
+                    Es wurde gemäß dem <ref
+                        target="https://www.deutschestextarchiv.de/doku/basisformat"
+                        >DTA-Basisformat</ref> in XML/TEI P5 kodiert.</p>
+                <p>Zur Vereinheitlung mit den übrigen Werken der Datensammlung wurden die Tags:
+                    'lb', 'pb', 'fw', 'sic', 'milestone', 'hi', 'supplied', 'choice' und 'corr' entfernt.</p>
+                <p>Die Datei wurde semi-automatisiert mit Auszeichnungen für Personen (persName), Orte
+                    (placeName, Zitate (quote) und Text Re-use (ref) angereichert. Die Evaluation der NER
+                    ergab einen F1 Score von 0,69.</p>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition scheme="css" xml:id="aq">font-family:sans-serif</rendition>
+                <rendition scheme="css" xml:id="b">font-weight:bold</rendition>
+                <rendition scheme="css" xml:id="blue">color:blue</rendition>
+                <rendition scheme="css" xml:id="c">display:block; text-align:center</rendition>
+                <rendition scheme="css" xml:id="et">display:block; margin-left:2em;
+                    text-indent:0</rendition>
+                <rendition scheme="css" xml:id="et2">display:block; margin-left:4em;
+                    text-indent:0</rendition>
+                <rendition scheme="css" xml:id="et3">display:block; margin-left:6em;
+                    text-indent:0</rendition>
+                <rendition scheme="css" xml:id="f">border:1px dotted silver</rendition>
+                <rendition scheme="css" xml:id="fr">border:1px dotted silver</rendition>
+                <rendition scheme="css" xml:id="g">letter-spacing:0.125em</rendition>
+                <rendition scheme="css" xml:id="i">font-style:italic</rendition>
+                <rendition scheme="css" xml:id="in">font-size:150%</rendition>
+                <rendition scheme="css" xml:id="k">font-variant:small-caps</rendition>
+                <rendition scheme="css" xml:id="larger">font-size:larger</rendition>
+                <rendition scheme="css" xml:id="red">color:red</rendition>
+                <rendition scheme="css" xml:id="right">display:block; text-align:right</rendition>
+                <rendition scheme="css" xml:id="s">text-decoration:line-through</rendition>
+                <rendition scheme="css" xml:id="smaller">font-size:smaller</rendition>
+                <rendition scheme="css" xml:id="sub">vertical-align:sub; font-size:.7em</rendition>
+                <rendition scheme="css" xml:id="sup">vertical-align:super;
+                    font-size:.7em</rendition>
+                <rendition scheme="css" xml:id="u">text-decoration:underline</rendition>
+                <rendition scheme="css" xml:id="uu">border-bottom:double 3px #000</rendition>
+            </tagsDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="deu">(Früh-)Neuhochdeutsch</language>
+                <language ident="deu">German</language>
+            </langUsage>
+            <textClass>
+                <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dtamain"
+                    >Fachtext</classCode>
+                <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dtasub"
+                    >Philosophie</classCode>
+                <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1main"
+                    >Wissenschaft</classCode>
+                <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub"
+                    >Philosophie</classCode>
+                <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus"
+                    >core</classCode>
+                <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus"
+                    >ready</classCode>
+                <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus"
+                    >mts</classCode>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+<text>
+<front>
+<figure/>
+<titlePage type="main">
+<docTitle>
+<titlePart type="main"> Berlinische Monatsschrift.</titlePart>
+</docTitle>
+<byline>Herausgegeben von <docAuthor> <persName>F. Gedike</persName> und <persName>J. E. Biester</persName>.</docAuthor>
+</byline>
+<titlePart type="volume"> Vierter Band.</titlePart>
+<titlePart type="volume"> <persName>Julius</persName> bis December 1784.</titlePart>
+<docImprint>
+<pubPlace> <placeName>Berlin</placeName>,</pubPlace>
+<docDate> 1784.</docDate>
+<publisher> Bei <persName>Haude</persName> und <persName>Spener</persName>. </publisher>
+</docImprint>
+</titlePage>
+<div type="contents">
+<head> Inhalt des vierten Bandes.</head>
+<div n="2">
+<head><persName>Julius</persName>.</head>
+<list>
+<item>1. An den <persName>Markus Lollius</persName>. Aus dem <persName ref="https://d-nb.info/gnd/118553569">Horaz</persName>. Vom Herrn <persName>Prof. Rammler</persName>.
+                                <space dim="horizontal"/>
+<ref>Seite 1</ref></item>
+<item>2. Geschichte der Streitigkeiten Pabst Paul des Fünften, und der
+                            Republik Venedig. Vom Herrn <persName>Prof. Eberhard</persName>. <space dim="horizontal"/>
+<ref>13</ref></item>
+<item>3. Der Traum, ein Chor mit Flöten. Vom Herrn Legationssekretär
+                            <persName>Schönborn</persName>. <space dim="horizontal"/>
+<ref>37</ref></item>
+<item>4. Noch etwas über die aërostatischen Maschinen, vorzüglich über
+                            deren Lenkung. Vom Herrn <persName>Prof. Prevost</persName>. <space dim="horizontal"/>
+<ref>39</ref></item>
+<item>5. Heutige <placeName>deutsche</placeName> Philosophie. <space dim="horizontal"/>
+<ref>50</ref></item>
+<item>6. Ueber die neue <placeName>preußische</placeName> Justizverfassung. <space dim="horizontal"/>
+<ref>56</ref></item>
+<item>7. Schreiben eines Buchhändlers von der Leipziger Ostermesse. <space dim="horizontal"/>
+<ref>63</ref></item>
+<item>8. Etymologie des Worts Wadel. Vom Hrn. Hofprediger <persName>Stosch</persName>. <space dim="horizontal"/>
+<ref>74</ref></item>
+<item>9. Der Weinstok und die andern Bäume. Zwei Fabeln. Vom Herrn <persName>Meißner</persName>.
+                                <space dim="horizontal"/>
+<ref>77</ref></item>
+<item>10. Ueber <placeName>Berlin</placeName>. Von einem Fremden. (Fortsetzung.) <space dim="horizontal"/>
+<ref>79</ref></item>
+<item>11. Nachtrag zur Geschichte des katholischen Gottesdienstes in
+                            protestantischen Kirchen. <space dim="horizontal"/>
+<ref>94</ref></item>
+</list>
+</div>
+<div n="2">
+<head>August.</head>
+<list>
+<item>1. <persName>Cyrus</persName> und <placeName>Kassandana</placeName>. Ein Singespiel. Vom Herrn Professor <persName ref="https://d-nb.info/gnd/119059614">Ramler</persName>.
+                                <space dim="horizontal"/>
+<ref>Seite 97</ref></item>
+<item>2. Die Bildsäule. Ein psychologisch–allegorisches Traumgesicht. Vom
+                            Herrn <persName ref="https://d-nb.info/gnd/118580744">Moses Mendelssohn</persName>. <space dim="horizontal"/>
+<ref>130</ref></item>
+<item>3. Die Curmethoden. <space dim="horizontal"/>
+<ref>155</ref></item>
+<item>4. Ueber <placeName>Berlin</placeName>. Von einem Fremden. (Fortsetzung.) <space dim="horizontal"/>
+<ref>160</ref></item>
+<item>5. Ueber ißt und ist. Ein von <persName>Friedr</persName>. <persName>Gedike</persName>. <space dim="horizontal"/>
+<ref>175</ref></item>
+<item>6. Ueber den Regenbogen: 1 B. Mos. IX, 13 bis 17. Vom Herrn <persName>Prof.
+                            Eberhard</persName>. <space dim="horizontal"/>
+<ref>180</ref></item>
+<item>7. Von der analogischen Schlußart. Vom Herrn Professor <persName>Selle</persName>. <space dim="horizontal"/>
+<ref>185</ref></item>
+<item>8. Ueber die Katholiken in <placeName>Holland</placeName>. <space dim="horizontal"/>
+<ref>187</ref></item>
+<item>9. Eine Schatzgräbergeschichte. Vom Herrn <persName ref="https://d-nb.info/gnd/118559796">K.</persName> G. Schröder. <space dim="horizontal"/>
+<ref>189</ref></item>
+</list>
+</div>
+<div n="2">
+<head>September.</head>
+<list>
+<item>1. Ueber die Frage: Was heißt aufklären? Vom Hrn. <persName ref="https://d-nb.info/gnd/118580744">Moses Mendelssohn</persName>.
+                                <space dim="horizontal"/>
+<ref>Seite 193</ref></item>
+<item>2. <persName>Xaverius Großinger</persName> in <placeName>Wien</placeName>, an die Herren Herausgeber der
+                            Berlinischen Monatsschrift. <space dim="horizontal"/>
+<ref>201</ref></item>
+<item>3. Eingabe an das Obersanitätskollegium in <placeName>Berlin</placeName> von einem Mitgliede
+                            desselben. <space dim="horizontal"/>
+<ref>223</ref></item>
+<item>4. Ueber den wahren Geist des reinen Deismus. <space dim="horizontal"/>
+<ref>231</ref></item>
+<item>5. Ueber ein paar Stellen in dem neuesten Stük des Göttingischen
+                            Magazins; nebst einem Anhang über Wetterprophezeihungen. Vom Herrn
+                            Professor <persName>Prevost</persName>. <space dim="horizontal"/>
+<ref>238</ref></item>
+<item>6. Ueber die analogische Schlußart. Vom Herrn Doktor <persName>Herz</persName>. <space dim="horizontal"/>
+<ref>246</ref></item>
+<item>7. Beitrag zur <placeName>deutschen</placeName> Kriminalgeschichte. <space dim="horizontal"/>
+<ref>252</ref></item>
+<item>8. Einige Vorschläge zur Verhütung der Desertion bei den Soldaten.
+                                <space dim="horizontal"/>
+<ref>256</ref></item>
+<item>9. Ueber eine räthselhafte Räthselgeschichte in unsern Tagen. Von
+                            <persName>Friedr</persName>. <persName>Gedike</persName>. <space dim="horizontal"/>
+<ref>267</ref></item>
+</list>
+</div>
+<div n="2">
+<head>Oktober.</head>
+<list>
+<item> 1. Lieb des alten Invaliden am Heck zu <placeName>Scharlottenburg</placeName>, an die
+                            Herren und Damen in <placeName>Berlin</placeName>. Seite <space dim="horizontal"/>
+<ref>289</ref></item>
+<item>2. Ueber das sittlich und physisch Gute. (Ein Briefwechsel zwischen
+                            Herrn <persName>Schwab</persName> und <persName ref="https://d-nb.info/gnd/118580744">Mendelssohn</persName> in <placeName>Berlin</placeName>:) <space dim="horizontal"/>
+<ref>293</ref></item>
+<item>3. Neue Theorie über den Flug der Vögel nach den Grundsätzen der
+                            Aerostatik. Vom Herrn <persName>Prof. J. R. Forster</persName> in <placeName>Halle</placeName>. <space dim="horizontal"/>
+<ref>304</ref></item>
+<item>4. Ueber die vielen Reisebeschreibungen in unsern Tagen. <space dim="horizontal"/>
+<ref>319</ref></item>
+<item>5. Sulpicia an <persName>Cerinths</persName> Geburtstage. Aus dem <persName>Tibull</persName>, (B. IV. El. V.)
+                            Vom Herrn <persName>Manso</persName>. <space dim="horizontal"/>
+<ref>333</ref></item>
+<item>6. Nähere Bestimmung der analogischen Schlußart. Vom Herrn <persName>Prof.
+                            Selle</persName>. <space dim="horizontal"/>
+<ref>334</ref></item>
+<item>7. Ueber <placeName>Berlin</placeName>. Von einem Fremden. (Fortsetzung.) <space dim="horizontal"/>
+<ref>337</ref></item>
+<item>8. Sonderbares Gebet für verheirathete Frauen. <space dim="horizontal"/>
+<ref>351</ref></item>
+<item>9. Denkmal eines mathematischen Leinwebers. Vom Herrn <persName>Prof. Wünsch.</persName>
+<space dim="horizontal"/>
+<ref>356</ref></item>
+<item>10. Ueber die 4te Ekloge <persName ref="https://d-nb.info/gnd/118626574">Virgil</persName>s. Vom Hrn. <persName>Prof. Bruns</persName>. <space dim="horizontal"/>
+<ref>379</ref></item>
+<item>11. Karun. Vom Herrn <persName>Meißner</persName>. <space dim="horizontal"/>
+<ref>383</ref></item>
+</list>
+</div>
+<div n="2">
+<head>November.</head>
+<list>
+<item>1. Idee zu einer allgemeinen Geschichte in weltbürgerlichen Absicht.
+                            Vom Herrn Prof. <persName ref="https://d-nb.info/gnd/118559796">Kant</persName>. <space dim="horizontal"/>
+<ref>Seite 386</ref></item>
+<item>2. Liebes- und Freundschaftsgeschichte. Eine Romanze. Vom Herrn
+                            Hauptmann von <placeName>Stamford</placeName>. <space dim="horizontal"/>
+<ref>411</ref></item>
+<item>3. Schreiben einer Alchymistengesellschaft an die Herausgeber und
+                            Mitarbeiter der Ber linischen Monatsschrift. <space dim="horizontal"/>
+<ref>416</ref></item>
+<item>4. Anekdoten. <space dim="horizontal"/>
+<ref>428–446</ref>
+<list>
+<item>1. Zwei schwärmerische Selbstmörder. <space dim="horizontal"/>
+<ref>428</ref></item>
+<item>2. Volkstäuschung. <space dim="horizontal"/>
+<ref>428</ref></item>
+<item>3. Mährchen von der Kanzel. <space dim="horizontal"/>
+<ref>430</ref></item>
+<item>4. Bakchanalien in der Christnacht. <space dim="horizontal"/>
+<ref>431</ref></item>
+<item>5. Erinnerungskraft aus Wahnsinn. <space dim="horizontal"/>
+<ref>434</ref></item>
+<item>6. Ein neuer <persName>Messias</persName>. <space dim="horizontal"/>
+<ref>438</ref></item>
+<item>7. Ein neuer Wunderdoktor. <space dim="horizontal"/>
+<ref>441</ref></item>
+</list></item>
+<item>5. Ueber <placeName>Berlin</placeName>. Von einem Fremden. (Fortsetzung. <space dim="horizontal"/>
+<ref>447</ref></item>
+<item>6. Auszug aus einer <placeName>märkischen</placeName> Bußpredigt, wegen zwei monströser
+                            Ferkel. <space dim="horizontal"/>
+<ref>471</ref></item>
+<item>7. Der Affe. Eine Fabel. <space dim="horizontal"/>
+<ref>480</ref></item>
+</list>
+</div>
+<div n="2">
+<head>December.</head>
+<list>
+<item>1. Beantwortung der Frage: was ist Aufklärung? Vom Herrn Prof. <persName ref="https://d-nb.info/gnd/118559796">Kant</persName>.
+                            Seite <space dim="horizontal"/>
+<ref>481</ref></item>
+<item>2. Schreiben über die Kempelischen Schachspiel- und Redemaschinen.
+                                <space dim="horizontal"/>
+<ref>495</ref></item>
+<item>Zusatz zu diesem Schreiben. Von <persName>Biester</persName>. <space dim="horizontal"/>
+<ref>506</ref></item>
+<item>3. Fernere Nachricht von dem Fortgange der allgemeinen Revision des
+                            gesammten Schulund Erziehungswesens, von einer Gesellschaft
+                            praktischer Erzieher. Vom Herrn <persName>Edukationsrath Campe</persName>. <space dim="horizontal"/>
+<ref>515</ref></item>
+<item>4. Anekdoten. <list>
+<item>1. Der Pseudo-Graf <persName>Cagliostro</persName>. <space dim="horizontal"/>
+<ref>536</ref></item>
+<item>2. Der Pseudo-Freiherr von <placeName>Mortczini</placeName>. <space dim="horizontal"/>
+<ref>539</ref></item>
+<item>3. Der <placeName>Berlinische</placeName> Planetenleser. <space dim="horizontal"/>
+<ref>551</ref></item>
+</list></item>
+<item>5. Ueber <placeName>Berlin</placeName>. Von einem Fremden. (Fortsetzung.) <space dim="horizontal"/>
+<ref>556</ref></item>
+<item>6. Versuch eines Beweises, daß es keine reine von der Erfahrung
+                            unabhängige Vernunftbegriffe gebe. Vom Herrn <persName>Prof. Selle</persName>. <space dim="horizontal"/>
+<ref>565</ref></item>
+<item>7. Nachtrag zu Nr. 2. über Herrn von <persName>Kempelen's</persName> Maschinen. <space dim="horizontal"/>
+<ref>576</ref></item>
+</list>
+</div>
+</div>
+</front>
+<body>
+<div n="1">
+<head> Berlinische Monatsschrift. 1784. Zwölftes Stük. December.</head>
+<div n="2">
+<head> I. Beantwortung der Frage: Was ist Aufklärung? (S. Decemb. 1783. S. 516.) </head>
+<p> Aufklärung ist der Ausgang des Menschen aus seiner selbst verschuldeten
+                        Unmündigkeit. Unmündigkeit ist das Unvermögen, sich seines Verstandes ohne
+                        Leitung eines anderen zu bedienen. Selbstverschuldet ist diese Unmün¬
+                        digkeit, wenn die Ursache derselben nicht am Mangel des Verstandes,
+                        sondern der Entschließung und des <persName>Muthes</persName> liegt, sich seiner ohne Leitung
+                        eines andern zu bedienen. Sapere aude! Habe <persName>Muth</persName> dich deines eigenen
+                        Verstandes zu bedienen! ist also der Wahlspruch der Aufklärung.</p>
+<p>Faulheit und Feigheit sind die Ursachen, warum ein so großer Theil der
+                        Menschen, nachdem sie die Natur längst von fremder Leitung frei gesprochen
+                        (naturaliter majorennes), dennoch gerne Zeitlebens unmündig bleiben; und
+                        warum es Anderen so leicht wird, sich zu deren Vormündern aufzuwerfen. Es
+                        ist so bequem, unmündig zu sein. Habe ich ein Buch, das für mich Verstand
+                        hat, einen Seelsorger, der für mich Gewissen hat, einen Arzt der für mich
+                        die Diät beurtheilt, u. s. w. so brauche ich mich ja nicht selbst zu
+                        bemühen. Ich habe nicht nöthig zu denken, wenn ich nur bezahlen kann; andere
+                        werden das verdrießliche Geschäft schon für mich übernehmen. Daß der bei
+                        weitem größte Theil der Menschen (darunter das ganze schöne Geschlecht) den
+                        Schritt zur Mündigkeit, außer dem daß er beschwerlich ist, auch für sehr
+                        gefährlich halte: dafür sorgen schon jene Vormünder, die die Oberaufsicht
+                        über sie gütigst auf sich genommen haben. Nachdem sie ihr Hausvieh zuerst
+                        dumm gemacht haben, und sorgfältig verhüteten, daß diese ruhigen Geschöpfe
+                        ja keinen Schritt außer dem Gängelwagen, darin sie sie einsperreten, wagen
+                        durften; so zeigen sie ihnen nachher die Gefahr, die ihnen drohet, wenn sie
+                        es versuchen allein zu gehen. Nun ist diese Gefahr zwar eben so groß
+                        nicht, denn sie würden durch einigemahl Fallen wohl endlich gehen lernen;
+                        allein ein Beispiel von der Art macht doch schüchtern, und schrekt
+                        gemeiniglich von allen ferneren Versuchen ab.</p>
+<p>Es ist also für jeden einzelnen Menschen schwer, sich aus der ihm beinahe zur
+                        Natur, gewordenen Unmündigkeit herauszuarbeiten. Er hat sie sogar lieb
+                        gewonnen, und ist vor der Hand wirklich unfähig, sich seines eigenen
+                        Verstandes zu bedienen, weil man ihn niemals den Versuch davon machen ließ.
+                        Satzungen und Formeln, diese mechanischen Werkzeuge eines vernünftigen
+                        Gebrauchs oder vielmehr Mißbrauchs seiner Naturgaben, sind die Fußschellen
+                        einer immerwährenden Unmündigkeit. Wer sie auch abwürfe, würde dennoch auch
+                        über den schmalesten Graben einen nur unsicheren Sprung thun, weil er zu
+                        dergleichen freier Bewegung nicht gewöhnt ist. Daher giebt es nur Wenige,
+                        denen es gelungen ist, durch eigene Bearbeitung ihres Geistes sich aus der
+                        Unmündigkeit heraus zu wikkeln, und dennoch einen sicheren Gang zu thun.</p>
+<p>Daß aber ein Publikum sich selbst aufkläre, ist eher möglich; ja es ist, wenn
+                        man ihm nur Freiheit läßt, beinahe unausbleiblich. Denn da werden sich
+                        immer einige Selbstdenkende, sogar unter den eingesetzten Vormündern des
+                        großen Haufens, finden, welche, nachdem sie das Joch der Unmündigkeit
+                        selbst abgeworfen haben, den Geist einer vernünftigen Schätzung des
+                        eigenen Werths und des Berufs jedes Menschen selbst zu denken um sich ver¬
+                        breiten werden. Besonders ist hiebei: daß das Publikum, welches zuvor von
+                        ihnen unter dieses Joch gebracht worden, sie hernach selbst zwingt darunter
+                        zu bleiben, wenn es von einigen seiner Vormünder, die selbst aller
+                        Aufklärung unfähig sind, dazu aufgewiegelt worden; so schädlich ist es
+                        Vorurtheile zu pflanzen, weil sie sich zuletzt an denen selbst rächen, die,
+                        oder deren Vorgänger, ihre Urheber gewesen sind. Daher kann ein Publikum nur
+                        langsam zur Aufklärung gelangen. Durch eine Revolution wird vielleicht wohl
+                        ein Abfall von persönlichem Despotism und gewinnsüchtiger oder
+                        herrschsüchtiger Bedrükkung, aber niemals wahre Reform der Denkungsart
+                        zu Stande kommen; sondern neue Vorurtheile werden, eben sowohl als die
+                        alten, zum Leitbande des gedankenlosen großen Haufens dienen.</p>
+<p>Zu dieser Aufklärung aber wird nichts erfordert als Freiheit; und zwar die
+                        unschädlichste unter allem, was nur Freiheit heißen mag, nämlich die: von
+                        seiner Vernunft in allen Stükken öffentlichen Gebrauch zu machen. Nun höre
+                        ich aber von allen Seiten rufen: räsonnirt nicht! Der Offizier sagt:
+                        räsonnirt nicht, sondern exercirt! Der Finanzrath: räsonnirt nicht, sondern
+                        bezahlt! Der Geistliche: räsonnirt nicht, sondern glaubt! (Nur ein einziger
+                        Herr in der Welt sagt: räsonnirt, so viel ihr wollt, und worüber ihr wollt;
+                        aber gehorcht!) Hier ist überall Einschränkung der Freiheit. Welche
+                        Einschränkung aber ist der Aufklärung hinderlich? welche nicht, sondern
+                        ihr wohl gar beförderlich? — Ich antworte: der öffentliche Gebrauch seiner
+                        Vernunft muß jederzeit frei sein, und der allein kann Aufklärung unter
+                        Menschen zu Stande bringen; der Privatgebrauch derselben aber darf öfters
+                        sehr enge eingeschränkt sein, ohne doch darum den Fortschritt der Aufklärung
+                        sonderlich zu hindern. Ich verstehe aber unter dem öffentlichen
+                        Gebrauche seiner eigenen Vernunft denjenigen, den jemand als Gelehrter von
+                        ihr vor dem ganzen Publikum der Leserwelt macht. Den Privatgebrauch nenne
+                        ich denjenigen, den er in einem gewissen ihm anvertrauten bürgerlichen Po¬
+                        sten, oder Amte, von seiner Vernunft machen darf. Nun ist zu manchen
+                        Geschäften, die in das Interesse des gemeinen Wesens laufen, ein gewisser
+                        Mechanism nothwendig, vermittelst dessen einige Glieder des gemeinen
+                        Wesens sich bloß passiv verhalten müssen, um durch eine künstliche
+                        Einhelligkeit von der Regierung zu öffentlichen Zwekken gerichtet, oder
+                        wenigstens von der Zerstörung dieser Zwekke abgehalten zu werden. Hier ist
+                        es nun freilich nicht erlaubt, zu räsonniren; sondern man muß gehorchen.
+                        So fern sich aber dieser Theil der Maschine zugleich als Glied eines ganzen
+                        gemeinen Wesens, ja sogar der Weltbürgergesellschaft ansieht, mithin in der
+                        Qualität eines Gelehrten, der sich an ein Publikum im eigentlichen
+                        Verstande durch Schriften wendet; kann er allerdings räsonniren, ohne daß
+                        dadurch die Geschäfte leiden, zu denen er zum Theile als passives Glied
+                        angesetzt ist. So würde es sehr verderblich sein, wenn ein Offizier, dem von
+                        seinen Oberen etwas anbefohlen wird, im Dienste über die Zwekmäßigkeit oder
+                        Nützlichkeit dieses Befehls laut vernünfteln wollte; er muß gehorchen. Es
+                        kann ihm aber billigermaßen nicht verwehrt werden, als Gelehrter, über die
+                        Fehler im Kriegesdienste Anmerkungen zu machen, und diese seinem Publikum
+                        zur Beurtheilung vorzulegen. Der Bürger kann sich nicht weigern, die ihm
+                        auferlegten Abgaben zu leisten; sogar kann ein vorwitziger Tadel solcher
+                        Auflagen, wenn sie von ihm geleistet werden sollen, als ein Skandal (das
+                        allgemeine Widersetzlichkeiten veranlassen könnte) bestraft werden. Eben
+                        derselbe handelt demohngeachtet der Pflicht eines Bürgers nicht entgegen,
+                        wenn er, als Gelehrter, wider die Unschiklichkeit oder auch Un¬
+                        gerechtigkelt solcher Ausschreibungen öffentlich seine Gedanken äußert. Eben
+                        so ist ein Geistlicher verbunden, seinen Katechismusschülern und seiner
+                        Gemeine nach dem Symbol der Kirche, der er dient, seinen Vortrag zu thun;
+                        denn er ist auf diese Bedingung angenommen worden. Aber als Gelehrter
+                        hat er volle Freiheit, ja sogar den Beruf dazu, alle seine sorgfältig
+                        geprüften und wohlmeinenden Gedanken über das Fehlerhafte in jenem Symbol,
+                        und Vorschläge wegen besserer Einrichtung des Religions- und
+                        Kirchenwesens, dem Publikum mitzutheilen. Es ist hiebei auch nichts, was
+                        dem Gewissen zur Last gelegt werden könnte. Denn, was er zu Folge seines
+                        Amts, als Geschäftträger der Kirche, lehrt, das stellt er als etwas vor, in
+                        Ansehung dessen er nicht freie Gewalt hat nach eigenem Gutdünken zu
+                        lehren, sondern das er nach Vorschrlft und im Namen eines andern
+                        vorzutragen angestellt ist. Er wird sagen: unsere Kirche lehrt dieses oder
+                        jenes; das sind die Beweisgründe, deren sie sich bedient. Er zieht alsdann
+                        allen praktischen Nutzen für seine Gemeinde aus Satzungen, die er selbst
+                        nicht mit voller Ueberzeugung unterschreiben würde, zu deren Vortrag er sich
+                        gleichwohl anheischig machen kann, weil es doch nicht ganz unmöglich
+                        ist, daß darin Wahrheit verborgen läge, auf alle Fälle aber wenigstens doch
+                        nichts der innern Religion widersprechendes darin angetroffen wird. Denn
+                        glaubte er das letztere darin zu finden, so würde er sein Amt mit Gewissen
+                        nicht verwalten können; er müßte es niederlegen. Der Gebrauch also, den ein
+                        angestellter Lehrer von seiner Vernunft vor seiner Gemeinde macht, ist
+                        bloß ein Privatgebrauch; weil diese immer nur eine häusliche, obzwar
+                        noch so große, Versammlung ist; und in Ansehung dessen ist er, als Priester,
+                        nicht frei, und darf es auch nicht sein, weil er einen fremden Auftrag
+                        ausrichtet. Dagegen als Gelehrter, der durch Schriften zum eigentlichen
+                        Publikum, nämlich der Welt, spricht, mithin der Geistliche im öf¬
+                        fentlichen Gebrauche seiner Vernunft, genießt einer uneingeschränkten
+                        Freiheit, sich seiner eigenen Vernunft zu bedienen und in seiner eigenen
+                        Person zu sprechen. Denn daß die Vormünder des Volks (in geistlichen Dingen)
+                        selbst wieder unmündig sein sollen, ist eine Ungereimtheit, die auf
+                        Verewigung der Ungereimtheiten hinausläuft.</p>
+<p>Aber sollte nicht eine Gesellschaft von Geistlichen, etwa eine
+                        Kirchenversammlung, oder eine ehrwürdige Klassis (wie sie sich unter den
+                        Holländern selbst nennt) berechtigt sein, sich eidlich unter einander auf
+                        ein gewisses unveränderliches Symbol zu verpflichten, um so eine
+                        unaufhörliche Obervormundschaft über jedes ihrer Glieder und vermittelst
+                        ihrer über das Volk zu führen, und diese so gar zu verewigen? Ich sage: das
+                        ist ganz unmöglich. Ein solcher Kontrakt, der auf immer alle weitere
+                        Aufklärung vom Menschengeschlechte abzuhalten geschlossen würde, ist
+                        schlechterdings null und nichtig; und sollte er auch durch die oberste
+                        Gewalt, durch Reichstäge und die feierlichsten Friedensschlüsse bestätigt
+                        sein. Ein Zeitalter kann sich nicht verbünden und darauf verschwören, das
+                        folgende in einen Zustand zu setzen, darin es ihm unmöglich werden muß,
+                        seine (vornehmlich so sehr angelegentliche) Erkenntnisse zu erweitern, von
+                        Irrthümern zu reinigen, und überhaupt in der Aufklärung weiter zu
+                        schreiten. Das wäre ein Verbrechen wider die menschliche Natur, deren
+                        ursprüngliche Bestimmung gerade in diesem Fortschreiten besteht; und die
+                        Nachkommen sind also vollkommen dazu berechtigt, jene Beschlüsse, als
+                        unbefugter und frevelhafter Weise genommen, zu verwerfen. Der Probierstein
+                        alles dessen, was über ein Volk als Gesetz beschlossen werden kann, liegt
+                        in der Frage: ob ein Volk sich selbst wohl ein solches Gesetz auferlegen
+                        könnte? Nun wäre dieses wohl, gleichsam in der Erwartung eines bessern, auf
+                        eine bestimmte kurze Zeit möglich, um eine gewisse Ordnung einzuführen;
+                        indem man es zugleich jedem der Bürger, vornehmlich dem Geistlichen, frei
+                        ließe, in der Qualität eines Gelehrten öffentlich, d. i. durch Schriften,
+                        über das Fehlerhafte der dermaligen Einrichtung seine Anmerkungen zu
+                        machen, indessen die eingeführte Ordnung noch immer fortdauerte, bis die
+                        Einsicht in die Beschaffenheit dieser Sachen öffentlich so weit gekommen und
+                        bewähret worden, daß sie durch Vereinigung ihrer Stimmen (wenn gleich
+                        nicht aller) einen Vorschlag vor den Thron bringen könnte, um diejenigen
+                        Gemeinden in Schutz zu nehmen, die sich etwa nach ihren Begriffen der
+                        besseren Einsicht zu einer veränderten Religionseinrichtung geeinigt hätten,
+                        ohne doch diejenigen zu hindern, die es beim Alten wollten bewenden lassen.
+                        Aber auf eine beharrliche, von Niemanden öffentlich zu bezweifelnde
+                        Religionsverfassung, auch nur binnen der Lebensdauer eines Menschen, sich
+                        zu einigen, und dadurch einen Zeitraum in dem Fortgange der Menschheit zur
+                        Verbesserung gleichsam zu vernichten, und fruchtlos, dadurch aber wohl gar
+                        der Nachkommenschaft nachtheilig, zu machen, ist schlechterdings un¬
+                        erlaubt. Ein Mensch kann zwar für seine Person, und auch alsdann nur auf
+                        einige Zeit, in dem was ihm zu wissen obliegt die Aufklärung aufschieben;
+                        aber auf sie Verzicht zu thun, es sei für seine Person, mehr aber noch für
+                        die Nachkommenschaft, heißt die heiligen Rechte der Menschheit verletzen und
+                        mit Füßen treten. Was aber nicht einmal ein Volk über sich selbst
+                        beschließen darf, das darf noch weniger ein Monarch über das Volk
+                        beschließen; denn sein gesetzgebendes Ansehen beruht eben darauf, daß er
+                        den gesammten Volkswillen in dem seinigen vereinigt. Wenn er nur darauf
+                        sieht, daß alle wahre oder vermeinte Verbesserung mit der bürgerlichen
+                        Ordnung zusammen bestehe; so kann er seine Unterthanen übrigens nur selbst
+                        machen lassen, was sie um ihres Seelenheils willen zu thun nöthig finden;
+                        das geht ihn nichts an, wohl aber zu verhüten, daß nicht einer den andern
+                        gewaltthätig hindere, an der Bestimmung und Beförderung desselben nach
+                        allem seinen Vermögen zu arbeiten. Es thut selbst seiner Majestät Abbruch,
+                        wenn er sich hierin mischt, indem er die Schriften, wodurch seine
+                        Unterthanen ihre Einsichten ins Reine zu bringen suchen, seiner
+                        Regierungsaufsicht würdigt, sowohl wenn er dieses aus eigener höchsten
+                        Einsicht thut, wo er sich dem Vorwurfe aussetzt: <persName>Caesar</persName> non est supra
+                        Grammaticos, als auch und noch weit mehr, wenn er seine oberste Gewalt so
+                        weit erniedrigt, den geistlichen Despotism einiger Tyrannen in seinem
+                        Staate gegen seine übrigen Unterthanen zu unterstützen.</p>
+<p>Wenn denn nun gefragt wird: Leben wir jetzt in einem aufgeklärten Zeitalter?
+                        so ist die Antwort: Nein, aber wohl in einem Zeitalter der Aufklärung. Daß
+                        die Menschen, wie die Sachen jetzt stehen, im Ganzen genommen, schon im
+                        Stande waren, oder darin auch nur gesetzt werden könnten, in Religionsdingen
+                        sich ihres eigenen Verstandes ohne Leitung eines Andern sicher und gut zu
+                        bedienen, daran fehlt noch sehr viel. Allein, daß jetzt ihnen doch das Feld
+                        geöffnet wird, sich dahin frei zu bearbeiten, und die Hindernisse der
+                        allgemeinen Aufklärung, oder des Ausganges aus ihrer selbst verschuldeten
+                        Unmündigkeit, allmälig weniger werden, davon haben wir doch deutliche
+                        Anzeigen. In diesem Betracht ist dieses Zeitalter das Zeitalter der
+                        Aufklärung, oder das Jahrhundert <persName>Friederichs</persName>.</p>
+<p>Ein Fürst, der es seiner nicht unwürdig findet, zu sagen: daß er es für
+                        Pflicht halte, in Religionsdingen den Menschen nichts vorzuschreiben, son¬
+                        dern ihnen darin volle Freiheit zu lassen, der also selbst den hochmüthigen
+                        Namen der Toleranz von sich ablehnt: ist selbst aufgeklärt, und verdient von
+                        der dankbaren Welt und Nachwelt als derjenige gepriesen zu werden, der
+                        zuerst das menschliche Geschlecht der Unmündigkeit, wenigstens von Seiten
+                        der Regierung, entschlug, und Jedem frei ließ, sich in allem, was
+                        Gewissensangelegenheit ist, seiner eigenen Vernunft zu bedienen. Unter ihm
+                        dürfen verehrungswürdige Geistliche, unbeschadet ihrer Amtspflicht, ihre vom
+                        angenommenen Symbol hier oder da abweichenden Urtheile und Einsichten, in
+                        der Qualität der Gelehrten, frei und öffentlich der der Welt zur Prüfung
+                        darlegen; noch mehr aber jeder andere, der durch keine Amtspflicht einge¬
+                        schränkt ist. Dieser Geist der Freiheit breitet sich auch außerhalb aus,
+                        selbst da, wo er mit äußeren Hindernissen einer sich selbst mißverstehenden
+                        Regierung zu ringen hat. Denn es leuchtet dieser doch ein Beispiel vor,
+                        daß bei Freiheit, für die öffentliche Ruhe und Einigkeit des gemeinen Wesens
+                        nicht das mindeste zu besorgen sei. Die Menschen arbeiten sich von selbst
+                        nach und nach aus der Rohigkeit heraus, wenn man nur nicht absichtlich
+                        künstelt, um sie darin zu erhalten.</p>
+<p>Ich habe den Hauptpunkt der Aufklärung, die des Ausganges der Menschen aus
+                        ihrer selbst verschuldeten Unmündigkeit, vorzüglich in Religionssachen
+                        gesetzt: weil in Ansehung der Künste und Wissenschaften unsere Beherrscher
+                        kein Interesse haben, den Vormund über ihre Unterthanen zu spielen; überdem
+                        auch jene Unmündigkeit, so wie die schädlichste, also auch die entehrendste
+                        unter allen ist. Aber die Denkungsart eines Staatsoberhaupts, der die
+                        erstere begünstigt, geht noch weiter, und sieht ein: daß selbst in Ansehung
+                        seiner Gesetzgebung es ohne Gefahr sei, seinen Unterthanen zu erlauben,
+                        von ihrer eigenen Vernunft öffentlichen Gebrauch zu machen, und ihre
+                        Gedanken über eine bessere Abfassung derselben, sogar mit einer
+                        freimüthigen Kritik der schon gegebenen, der Welt öffentlich vorzulegen;
+                        davon wir ein glänzendes Beispiel haben, wodurch noch kein Monarch
+                        demjenigen vorging, welchen wir verehren.</p>
+<p>Aber auch nur derjenige, der, selbst aufgeklärt, sich nicht vor Schatten
+                        fürchtet, zugleich aber ein wohldisciplinirtes zahlreiches Heer zum Bürgen
+                        der öffentlichen Ruhe zur Hand hat, — kann das sagen, was ein Freistaat
+                        nicht wagen darf: räsonnirt so viel ihr wollt, und worüber ihr wollt; nur
+                        gehorcht! So zeigt sich hier ein befremdlicher nicht erwarteter Gang
+                        menschlicher Dinge; so wie auch sonst, wenn man ihn im Großen betrachtet,
+                        darin fast alles paradox ist. Ein größerer Grad bürgerlicher Freiheit
+                        scheint der Freiheit des Geistes des Volks vortheilhaft, und setzt ihr doch
+                        unübersteigliche Schranken; ein Grad weniger von jener verschaft hingegen
+                        diesem Raum, sich nach allem seinen Vermögen auszubreiten. Wenn denn die
+                        Natur unter dieser harten Hülle den Keim, für den sie am zärtlichsten sorgt,
+                        nämlich den Hang und Beruf zum freien Denken, ausgewikkelt hat; so wirkt
+                        dieser allmählig zurük auf die Sinnesart des Volks, (wodurch dieses der
+                        Freiheit zu handeln nach und nach fähiger wird), und endlich auch sogar
+                        auf die Grundsätze der Regierung, die es ihr selbst zuträglich findet, den
+                        Menschen, der nun mehr als Maschine ist, seiner Würde gemäß zu behandeln.
+                            <note n="*)" place="foot">In den <persName ref="https://d-nb.info/gnd/119003554">Büsching</persName>'schen wöchentlichen
+                            Nachrichten vom 13. Sept. lese ich heute den 30sten eben dess. die
+                            Anzeige der Berlinischen Monatsschrift, von diesem Monat, worin des
+                            Herrn <persName ref="https://d-nb.info/gnd/118580744">Mendelssohn</persName> Beantwortung eben derselben Frage angeführt wird.
+                            Mir ist sie noch nicht zu Händen gekommen; sonst würde sie die
+                            gegenwärtige zuükgehalten haben, die jetzt nur zum Versuche da stehen
+                            mag, wiefern der Zufall Einstimmigkeit der Gedanken zuwege bringen
+                            könne. </note></p>
+<p rendition="#right"> I. <persName ref="https://d-nb.info/gnd/118559796">Kant</persName>.</p>
+<p rendition="#c"><placeName>Königsberg</placeName> in <placeName>Preußen</placeName>, den 30. Septemb. 1784.</p>
+</div>
+</div>
+</body>
+</text></TEI>
