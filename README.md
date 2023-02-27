@@ -13,8 +13,8 @@ F1 Score für die NER ist 0,69. Die Annotierten TEI/XML Datein befinden sich im 
 
 Die Quellen für die Dateien sind:
 
-Deutsches Textarchiv (DTA) https://www.deutschestextarchiv.de/
+https://www.deutschestextarchiv.de/  Deutsches Textarchiv (DTA)
 
 https://www.zeno.org/
 
-und https://www.projekt-gutenberg.org/
+https://www.projekt-gutenberg.org/
